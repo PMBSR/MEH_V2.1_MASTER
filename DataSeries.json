@@ -1,0 +1,16 @@
+{
+    "DataSeries": [
+        {
+            "DeviceId": "000010013500",
+            "OrderTimestamp": "20200530162245709",
+            "DeviceValue": "123",
+            "Alarm": "YES"
+        },
+        {
+            "DeviceId": "000010013400",
+            "OrderTimestamp": "20200530162245709",
+            "DeviceValue": "15",
+            "Alarm": "YES"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+esta pasta, test_connectivityv3, contem todos os modulos correspondentes ao master(RASPBERRY)
+para arrancar utilizar a main "test_connectivity.py"  
+é necessario ter as antenas conectadas, para bom funcionamento
+a funçao sendAlarm() que é chamada na funçao data_process.py está comentada, mas é funcional.
+Ficheiro test_data_process.py e test_update_dB.py sao apenas de teste, nao sao necessarios para o funcinamento da main
+Ficheiro InsertConfiguration.py é independente é pode ser corrido para adicionar configuraçoes na DynamodB enquanto a main está a correr
+

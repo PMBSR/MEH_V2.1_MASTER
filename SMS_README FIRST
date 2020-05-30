@@ -1,0 +1,10 @@
+README:
+O conceito deste programa é testar se o serviço de mensagens está bem configurado,
+em que introduzindo o numero de telemovel este irá receber uma mensagem a dizer
+"SERVICES OK" - ANTES DESTE TESTE DEVE SER SEGUIDO O GUIA DE CONFIGURAÇÃO SMS SERVICE,
+HP.04.06.013-04 - SMS service configuration
+
+>>python3 AlarmSMS.py
+Após isto o terminal irá pedir o seu número de telemóvel
+Irá receber no terminal Message Sended!
+Se estiver tudo bem configurado terá recebido uma mensagem no seu telemóvel

@@ -1,0 +1,44 @@
+{
+    "SlaveConfiguration": [
+        {
+            "SlaveId": "001",
+            "OrderTimestamp": "20200526024437699",
+            "MasterId": "00001",
+            "DeviceSequence": "2500-3500-3400-3800-1501-1500-1301-1300-1200",
+            "ActuationParameter": "fechar",
+            "AlarmPhone": "918979696",
+            "MacAddress": "f04d59bf713c",
+            "DeviceStatus": "1"
+        },
+        {
+            "SlaveId": "002",
+            "OrderTimestamp": "20200526044046908",
+            "MasterId": "00001",
+            "DeviceSequence": "3400-3500",
+            "ActuationParameter": "regarplantas",
+            "AlarmPhone": "911048797",
+            "MacAddress": "1cdf59bf713c",
+            "DeviceStatus": "0"
+        },
+        {
+            "SlaveId": "001",
+            "OrderTimestamp": "20200526184737699",
+            "MasterId": "00001",
+            "DeviceSequence": "2500-3500-3800-1500-1501-1300-1301-1200-3400",
+            "ActuationParameter": "regar",
+            "AlarmPhone": "918979696",
+            "MacAddress": "f04d59bf713c",
+            "DeviceStatus": "1"
+        },
+        {
+            "SlaveId": "001",
+            "OrderTimestamp": "20200527033617417",
+            "MasterId": "00001",
+            "DeviceSequence": "3500-1501-3400",
+            "ActuationParameter": "fecharcortinas",
+            "AlarmPhone": "918979696",
+            "MacAddress": "f04d59bf713c",
+            "DeviceStatus": "1"
+        }
+    ]
+}

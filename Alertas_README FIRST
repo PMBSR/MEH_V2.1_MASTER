@@ -1,0 +1,6 @@
+README:
+Antes de correr este teste, primeiro configure o sistema segundo o ficheiro
+HP.04.06.013-05 - Email ALERTS configuration - default: estufaspi20@gmail.com
+Não precisa de configurar mail que vai receber o alerta, é pedido no terminal
+
+>>pyhton3 Emailer.py
